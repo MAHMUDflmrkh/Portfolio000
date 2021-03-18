@@ -380,3 +380,15 @@ div#rightIam>img {
    width: 100%;
 }
 /* contact section end */
+/* footer start */
+footer#myFooter {
+   width: 100%;
+   background: #f5f6f8;
+}
+
+.ftItem {padding: 34px 139px 26px 479px;/* justify-items: center; */}
+
+.ftItem>p>span {
+   color: #7adb74;
+}
+/* footer end */
